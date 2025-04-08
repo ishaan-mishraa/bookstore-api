@@ -20,3 +20,17 @@ This project is a NestJS-based RESTful API for a Bookstore application. It suppo
 ```bash
 git clone <repository-url>
 cd bookstore-api
+```
+
+### 2. Run Locally
+
+```bash
+npm run start:dev
+```
+
+### OR Using Docker
+
+```bash
+docker-compose build --no-cache
+docker-compose up
+```
