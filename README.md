@@ -18,7 +18,7 @@ This project is a NestJS-based RESTful API for a Bookstore application. It suppo
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ishaan-mishraa/bookstore-api
 cd bookstore-api
 ```
 
